@@ -1,14 +1,14 @@
 # 青岛二中校园墙
 本repo为学生运营的青岛二中校园墙。为保护学生安全及民主发言权利，设立此墙，望广为传播。\
-转播链接：github.com/qdez-stunion/qdez-wall
+转播链接：github.com/qdez-stunion/qdez-wall\
+墙还可以通过 qdez-stunion.github.io 访问\
 
 ## 如何投稿
-你需要fork本仓库，在其中添加你自己的内容并提出pull request。\
-仓库的维护者会每周末进行清理和合并。\
-在你添加自己的内容时，维护者建议使用 日期.md的形式 如2026-01-01.md\
-你可以在日期后添加属于你自己的内容 如2026-01-01-qdez.md 但这不是必须的。\
+1. （最简单）直接向墙的邮箱发邮件，墙的邮箱是 vanishhope@outlook.com 该邮箱不是国内邮箱，没有被追查风险，可以放心使用，
+3. 你可以直接提交issue，维护者会每周末进行合并。
 
 ## 安全提醒
+**维护者强烈建议学生避免使用公开的邮箱进行活动，以避免不大可能发生的邮箱被爆破**\
 **维护者强烈建议学生不要使用自己经常活动的github账户进行投稿。**\
 **如果必须使用，请将邮件地址设置为private（隐藏）以保护你的人身安全。**\
  如何操作：头像->Settings->(Access) Emails-> Keep my email addresses private
